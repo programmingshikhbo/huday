@@ -3,3 +3,4 @@ this is one.txt file
 ami branching somporke kichu ekta add korlam
 
 again fix this issue
+added some new text for conflict testing
